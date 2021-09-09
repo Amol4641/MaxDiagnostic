@@ -8,4 +8,5 @@
 7. Responsive contact / booking form section using css flexbox. 
 8. Responsive footer section using css grid.
 9. Tech stack : HTML, CSS and Bootsratp V.5 & JavaScript.
-#[Visit the webpage ](https://amol4641.github.io/MaxDiagnostic/#home)
+#[Click on the link below toVisit the site]
+(https://amol4641.github.io/MaxDiagnostic/#home)
