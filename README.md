@@ -9,4 +9,4 @@
 8. Responsive footer section using css grid.
 9. Tech stack : HTML, CSS and Bootsratp V.5 & JavaScript.
 ## [Click on the link below toVisit the site]
- (https://amol4641.github.io/MaxDiagnostic/#home)
+ (https://amol4641.github.io/MaxDiagnostic/)
